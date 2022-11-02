@@ -1,2 +1,2 @@
 # projek-web
-Projek Akhir semester tiga mata kuliah Worshop Sistem Informasi
+Projek akhir semester tiga mata kuliah Worshop Sistem Informasi
